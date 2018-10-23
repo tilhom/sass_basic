@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "../sass/style.scss"
+  ],
+  "names": [],
+  "mappings": "AAOA;EACE;EACA;EACA;;;AAOF;EAEE;;;AAGF;EAEE;;;AAGF;EAEE",
+  "file": "style.css"
+}
